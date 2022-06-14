@@ -25,7 +25,7 @@ When running `npm start`, the first page showed this:
    4. [ Contributing ](#contributing)
 
    ## Heroku:
-   [Click Here]()
+   [Click Here](https://immense-bayou-30891.herokuapp.com/)
 
    ## Installation:hammer:
 
