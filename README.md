@@ -2,14 +2,19 @@
 ### PWA (Progressive Web Application)
 ## Purpose:heavy_exclamation_mark:
  To update an existing budget tracker application to allow for offline access and functionality <br>
+ ![SCREENSHOT OF 'BUDGET TRACKER' FRONT PAGE]()
 ### USER STORY:
 `"AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits
  with or without a data/internet connection 
 SO THAT my account balance is accurate when I am traveling."` 
 
-![SCREENSHOT OF 'BUDGET TRACKER' FRONT PAGE]()
-![SCREENSHOT OF 'BUDGET TRACKER']()
+
+When running `npm start`, the first page showed this:
+![Screenshot of inital page at $0](assets/initial-budget.png) <br>
+
+
+![SCREENSHOT OF 'BUDGET TRACKER OFFLINE']()
 
 
    ## Table of Contents::mag:
@@ -44,6 +49,8 @@ SO THAT my account balance is accurate when I am traveling."`
      ```
      `npm i express`
      ```
+
+    
 
    ## Usage:
 
