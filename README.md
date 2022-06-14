@@ -15,9 +15,9 @@ When running `npm start`, the first page showed this:
 
 My mongodb wasn't connected so I ran `mongod`, then opened another terminal and ran the app. 
 ![SCREENSHOT OF 'BUDGET TRACKER WITH ADDED FUNDS'](assets/add-sub-funds.png) <br>
-
+Application as PWA:
 ![App as PWA](assets/pwa.png) <br>
-
+Service Worker report 
 ![Service Worker Report](assets/service-worker-report.png)
 
 
