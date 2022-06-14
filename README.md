@@ -2,7 +2,11 @@
 ### PWA (Progressive Web Application)
 ## Purpose:heavy_exclamation_mark:
  To update an existing budget tracker application to allow for offline access and functionality <br>
-
+### USER STORY:
+`"AS AN avid traveler
+I WANT to be able to track my withdrawals and deposits <br>
+ with or without a data/internet connection <br>
+SO THAT my account balance is accurate when I am traveling."` <br>
 ![SCREENSHOT OF 'BUDGET TRACKER' FRONT PAGE]()
 ![SCREENSHOT OF 'BUDGET TRACKER']()
 
