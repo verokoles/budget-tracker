@@ -13,8 +13,12 @@ SO THAT my account balance is accurate when I am traveling."`
 When running `npm start`, the first page showed this:
 ![Screenshot of inital page at $0](assets/initial-budget.png) <br>
 
+My mongodb wasn't connected so I ran `mongod`, then opened another terminal and ran the app. 
+![SCREENSHOT OF 'BUDGET TRACKER WITH ADDED FUNDS'](assets/add-sub-funds.png) <br>
 
-![SCREENSHOT OF 'BUDGET TRACKER OFFLINE']()
+![App as PWA](assets/pwa.png) <br>
+
+![Service Worker Report](assets/service-worker-report.png)
 
 
    ## Table of Contents::mag:
