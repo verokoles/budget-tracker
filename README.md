@@ -24,7 +24,7 @@ When running `npm start`, the first page showed this:
    3. [ Usage ](#usage)
    4. [ Contributing ](#contributing)
 
-   ## Heroku:
+   ## Heroku:heavy_plus_sign:
    [Click Here](https://immense-bayou-30891.herokuapp.com/)
 
    ## Installation:hammer:
