@@ -27,15 +27,23 @@ SO THAT my account balance is accurate when I am traveling."`
    To install dependancies, run the following commands:
 
      ```
-     npm install to create node_modules
+     `npm install` to create node_modules
      ```
      ```
-     ```
-     npm i mongoose
+     `npm i mongoose`
      ```
      ```
      run `mongod` to start MONGODB service 
-
+     ```
+     ```
+     `npm start` to run app in server
+     ```
+     ```
+     `npm i heroku` and `heroku create` to create URL of app in Heroku.com
+     ```
+     ```
+     `npm i express`
+     ```
 
    ## Usage:
 
