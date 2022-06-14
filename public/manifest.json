@@ -45,7 +45,7 @@
     "short_name": "PWA",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "../index.html",
+    "start_url": "/",
     "description": "An app that allows users to to track my withdrawals and deposits with or without a data/internet connection.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
